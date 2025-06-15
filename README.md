@@ -1,2 +1,2 @@
 # ai-healthcare
-AI in healthcare
+AI in healthcare course
